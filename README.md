@@ -1,3 +1,3 @@
-# Simple-Chatbot
+# Simple-Chatbot-Pipeline
 
-A chatbot created using transformers library using Facebook 'blenderbot-400M-distill'
+A chatbot pipeline created using transformers library using Facebook 'blenderbot-400M-distill'
